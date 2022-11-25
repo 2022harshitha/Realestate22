@@ -1,0 +1,24 @@
+.sidebar {
+    background-color: #E1F9F4;
+    height: 100vh;
+    width: 20vw;
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: black; */
+    padding: 1.6em 0;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 1.5rem;
+    width: max-content;
+    color: #1A1B1C;
+    /* background-color: white; */
+
+}
